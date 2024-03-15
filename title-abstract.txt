@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Credit Score Alternative: Scoring Risk of Default using Transaction Data
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+Within the realm of financial lending, the FICO score has long served as the primary tool for assessing potential borrowers. In this paper, we suggest leveraging the capabilities of machine learning alongside borrowers' transactional data to forecast the likelihood of customer default. Specifically, income, balance, and transaction category emerge as pivotal factors correlated with credit risk for each individual. This paper aims to construct a model that integrates all these features and combinations therein to anticipate whether a customer is likely to default on their banking transactions.
